@@ -1,0 +1,7 @@
+{
+	"files.exclude": {
+		"D:/Cpp/BattleTank/BattleTank/BattleTank/.vscode": true,
+		"D:/Cpp/BattleTank/BattleTank/BattleTank/Content": true,
+		"D:/Cpp/BattleTank/BattleTank/BattleTank/Intermediate": true
+	}
+}

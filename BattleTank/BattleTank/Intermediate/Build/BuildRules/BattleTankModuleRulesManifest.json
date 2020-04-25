@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Cpp\\BattleTank\\BattleTank\\BattleTank\\Source\\BattleTank\\BattleTank.Build.cs",
+		"D:\\Cpp\\BattleTank\\BattleTank\\BattleTank\\Source\\BattleTank.Target.cs",
+		"D:\\Cpp\\BattleTank\\BattleTank\\BattleTank\\Source\\BattleTankEditor.Target.cs"
+	],
+	"EngineVersion": "4.25.0"
+}

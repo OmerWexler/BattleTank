@@ -5,6 +5,8 @@
             "includePath": [
                 "D:\\Epic\\UE_4.25\\Engine\\Source",
                 "D:\\Cpp\\BattleTank\\BattleTank\\BattleTank\\Source",
+                "D:\\Cpp\\BattleTank\\BattleTank\\BattleTank\\Source\\BattleTank\\Public",
+                "D:\\Cpp\\BattleTank\\BattleTank\\BattleTank\\Source\\BattleTank\\Private",
                 "D:\\Epic\\UE_4.25\\Engine\\Source\\Runtime",
                 "D:\\Epic\\UE_4.25\\Engine\\Source\\Runtime\\TraceLog\\Public",
                 "D:\\Epic\\UE_4.25\\Engine\\Source\\Runtime\\Core\\Public",
